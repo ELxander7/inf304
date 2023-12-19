@@ -2,6 +2,7 @@ package ru.itis.inf304.razrabotka;
 
 public class Taxi extends Personage{
 
+
     private String job;
     private String time;
     private  int slr = 0;

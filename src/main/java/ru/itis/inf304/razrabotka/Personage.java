@@ -1,5 +1,6 @@
 package ru.itis.inf304.razrabotka;
 public class Personage {
+
     private String name;
     private int age;
     private String city;

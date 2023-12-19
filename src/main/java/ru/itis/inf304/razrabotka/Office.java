@@ -1,6 +1,7 @@
 package ru.itis.inf304.razrabotka;
 
 public class Office extends  Personage{
+
     public int hours;
     public String role;
     private int slr = 0;

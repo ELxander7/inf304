@@ -1,6 +1,8 @@
 package ru.itis.inf304.razrabotka;
 
 public class Salary {
+
+
     public static void main(String[] args) {
         Office person1 = new Office("Олег", 30, "Москва", "специалиста",225);//создаётся экземпляр класса офис
         person1.sayHello();
